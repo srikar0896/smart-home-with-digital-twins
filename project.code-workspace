@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "node-kafka"
+		},
+		{
+			"path": "kafka-docker"
+		},
+		{
+			"path": "digital-twins"
+		},
+		{
+			"path": "prediction-service"
+		}
+	],
+	"settings": {}
+}
